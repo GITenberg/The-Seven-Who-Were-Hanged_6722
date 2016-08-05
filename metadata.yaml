@@ -1,0 +1,37 @@
+_repo: The-Seven-Who-Were-Hanged_6722
+_version: 0.0.1
+alternative_title: Razskaz o semi povieshennykh. English
+contributor:
+  translator:
+    agent_name: Bernstein, Herman
+    birthdate: 1876
+    deathdate: 1935
+    gutenberg_agent_id: '1006'
+    url: http://www.gutenberg.org/2009/agents/1006
+creator:
+  author:
+    agent_name: Andreyev, Leonid
+    aliases:
+    - Andreev, Leonid Nikolaevich
+    - Андреев, Леонид Николаевич
+    - Andreyev, Leonid Nikolayevich
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '1871'
+    url: http://www.gutenberg.org/2009/agents/1871
+    wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
+description: 'Translation of: Rasskaz o semi poveshennykh'
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6722'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Executions and executioners -- Russia -- Fiction'
+- GITenberg
+title: The Seven Who Were Hanged
+url: http://www.gutenberg.org/ebooks/6722
