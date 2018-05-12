@@ -1,5 +1,5 @@
 _repo: The-Seven-Who-Were-Hanged_6722
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Razskaz o semi povieshennykh. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '1006'
     url: http://www.gutenberg.org/2009/agents/1006
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Andreyev, Leonid
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1871
     wikipedia: http://en.wikipedia.org/wiki/Leonid_Andreyev
 description: 'Translation of: Rasskaz o semi poveshennykh'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6722#The-Seven-Who-Were-Hanged
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
